@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my Github profile
+
+### Here you can check what I have been learning and the projects I am working on.
+
+
 
 <!--
 **carmar0/carmar0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
