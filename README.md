@@ -13,4 +13,4 @@
 
 ### Contact:
 [![Linkedin-Badge](https://img.shields.io/badge/-Carlos_Martínez-blue?style=flat-squares&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-mart%C3%ADnez-cant%C3%B3n-414131ab/)](https://www.linkedin.com/in/carlos-mart%C3%ADnez-cant%C3%B3n-414131ab/)
-[![Gmail Badge](https://img.shields.io/badge/-cmartinezcanton@gmail.com-c14438?style=flat=square&logo=Gmail&logoColor=white&link=mailto:cmartinezcanton@gmail.com)](cmartinezcanton@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-cmartinezcanton@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmartinezcanton@gmail.com)](cmartinezcanton@gmail.com)
