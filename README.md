@@ -2,7 +2,7 @@
 
 ### Here you can check what I have been learning and the projects I am working on.
 
-![] (https://ebf.com.es/blog/wp-content/uploads/2023/01/IA-800x400.jpg)
+![] ([https://ebf.com.es/blog/wp-content/uploads/2023/01/IA-800x400.jpg](https://ebf.com.es/blog/wp-content/uploads/2023/01/IA-800x400.jpg))
 
 
 <!--
