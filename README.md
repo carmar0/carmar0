@@ -6,7 +6,7 @@
 
 ## My repositories
 
-[My test repository](https://www.linkedin.com/in/carlos-mart%C3%ADnez-cant%C3%B3n-414131ab/) This is my test repository
+[netflixClone](https://github.com/carmar0/netflixClone) A web application connected to a database that simulates an audiovisual content platform such as Netflix.
 
 # My Github statistics
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=carmar0&show_icons=true&theme=dark)](https://github.com/carmar0/github-readme-stats)
