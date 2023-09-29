@@ -2,7 +2,7 @@
 
 ### Here you can check what I have been learning and the projects I am working on.
 
-![] (https://cdn.shortpixel.ai/spai/w_818+q_+ret_img+to_webp/https://www.eude.es/wp-content/uploads/2023/06/Dise%C3%B1o-sin-t%C3%ADtulo-3.png)
+![] (https://ebf.com.es/blog/wp-content/uploads/2023/01/IA-800x400.jpg)
 
 
 <!--
