@@ -7,6 +7,7 @@
 ## My repositories
 
 [netflixClone](https://github.com/carmar0/netflixClone) A web application connected to a database that simulates an audiovisual content platform such as Netflix.
+[Product Manager](https://github.com/carmar0/GestorProductos) A desktop application connected to a data base, a product manager.
 
 # My Github statistics
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=carmar0&show_icons=true&theme=dark)](https://github.com/carmar0/github-readme-stats)
