@@ -7,8 +7,12 @@
 ## My repositories
 
 [netflixClone](https://github.com/carmar0/netflixClone) A web application connected to a database that simulates an audiovisual content platform such as Netflix.  
-[GestorProductos](https://github.com/carmar0/GestorProductos) A desktop application connected to a data base, a product manager.    
-[GestorTareas](https://github.com/carmar0/GestorTareas) A web application connected to a data base, a task manager.
+[GestorProductos](https://github.com/carmar0/GestorProductos) A desktop application connected to a data base used as product manager.    
+[GestorTareas](https://github.com/carmar0/GestorTareas) A web application connected to a data base used as task manager.
+
+Blockchain projects:  
+[MiniYearn](https://github.com/carmar0/MiniYearn) Smart contract for depositing Ether and gain interest through AAVE pool.  
+[UnlockdClone](https://github.com/carmar0/UnlockdClone) A lending protocol that uses NFT as collateral.
 
 # My Github statistics
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=carmar0&show_icons=true&theme=dark)](https://github.com/carmar0/github-readme-stats)
