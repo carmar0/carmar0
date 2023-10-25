@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my Github profile
+# Hi there 👋 My name is Carlos, welcome to my Github profile!
 
 ### Here you can check what I have been learning and the projects I am working on.
 
@@ -11,7 +11,7 @@
 [GestorTareas](https://github.com/carmar0/GestorTareas) A web application connected to a data base used as task manager.
 
 Blockchain projects:  
-[MiniYearn](https://github.com/carmar0/MiniYearn) Smart contract for depositing Ether and gain interest through AAVE pool.  
+[MiniYearn](https://github.com/carmar0/MiniYearn) Smart contract for depositing Ether and gain interest through the AAVE pool.  
 [UnlockdClone](https://github.com/carmar0/UnlockdClone) A lending protocol that uses NFT as collateral.
 
 # My Github statistics
