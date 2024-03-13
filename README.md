@@ -12,7 +12,8 @@
 
 Blockchain projects:  
 [MiniYearn](https://github.com/carmar0/MiniYearn) Smart contract for depositing Ether and gain interest through the AAVE pool.  
-[UnlockdClone](https://github.com/carmar0/UnlockdClone) A lending protocol that uses NFT as collateral.
+[UnlockdClone](https://github.com/carmar0/UnlockdClone) A lending protocol that uses NFT as collateral.  
+[NFT-Marketplace](https://github.com/carmar0/NFT-Marketplace) A NFT market place.
 
 # My Github statistics
 [![Hua's github stats](https://github-readme-stats.vercel.app/api?username=carmar0&show_icons=true&theme=dark)](https://github.com/carmar0/github-readme-stats)
