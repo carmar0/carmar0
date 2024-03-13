@@ -15,9 +15,6 @@ Blockchain projects:
 [UnlockdClone](https://github.com/carmar0/UnlockdClone) A lending protocol that uses NFT as collateral.  
 [NFT-Marketplace](https://github.com/carmar0/NFT-Marketplace) A NFT market place.
 
-# My Github statistics
-[![Hua's github stats](https://github-readme-stats.vercel.app/api?username=carmar0&show_icons=true&theme=dark)](https://github.com/carmar0/github-readme-stats)
-
 ### Contact:
 [![Linkedin-Badge](https://img.shields.io/badge/-Carlos_Martínez-blue?style=flat-squares&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-mart%C3%ADnez-cant%C3%B3n-414131ab/)](https://www.linkedin.com/in/carlos-mart%C3%ADnez-cant%C3%B3n-414131ab/)
 [![Gmail Badge](https://img.shields.io/badge/-cmartinezcanton@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cmartinezcanton@gmail.com)](mailto:cmartinezcanton@gmail.com)
