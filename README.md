@@ -13,7 +13,7 @@
 Blockchain projects:  
 [MiniYearn](https://github.com/carmar0/MiniYearn) Smart contract for depositing Ether and gain interest through the AAVE pool.  
 [UnlockdClone](https://github.com/carmar0/UnlockdClone) A lending protocol that uses NFT as collateral.  
-[NFT-Marketplace](https://github.com/carmar0/NFT-Marketplace) A NFT market place.
+[NFT-Marketplace](https://github.com/carmar0/NFT-Marketplace) A NFT marketplace.
 
 ### Contact:
 [![Linkedin-Badge](https://img.shields.io/badge/-Carlos_Martínez-blue?style=flat-squares&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-mart%C3%ADnez-cant%C3%B3n-414131ab/)](https://www.linkedin.com/in/carlos-mart%C3%ADnez-cant%C3%B3n-414131ab/)
